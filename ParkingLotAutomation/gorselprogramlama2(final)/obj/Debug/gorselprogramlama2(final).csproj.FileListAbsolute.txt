@@ -1,0 +1,10 @@
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\bin\Debug\gorselprogramlama2(final).exe.config
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\bin\Debug\gorselprogramlama2(final).exe
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\bin\Debug\gorselprogramlama2(final).pdb
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2(final).csproj.AssemblyReference.cache
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2_final_.Form1.resources
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2_final_.Properties.Resources.resources
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2(final).csproj.GenerateResource.cache
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2(final).csproj.CoreCompileInputs.cache
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2(final).exe
+C:\Users\ardav\source\repos\gorselprogramlama2(final)\gorselprogramlama2(final)\obj\Debug\gorselprogramlama2(final).pdb
